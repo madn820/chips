@@ -1,0 +1,3 @@
+torch
+tokenizers
+python-telegram-bot==20.7
